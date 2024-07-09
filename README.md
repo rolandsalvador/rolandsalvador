@@ -1,8 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Roland!  <br/><a href="https://www.linkedin.com/in/rolandsalvador/">IT Professional</a> and <a href="https://github.com/rolandsalvador?tab=repositories">Programmer</a></h1>
+  
+I am a detail-oriented and motivated IT professional with one year of hands-on experience in technical support and troubleshooting. I have a proven ability to quickly analyze and document complex issues to provide accurate solutions. I am seeking opportunities to contribute to cybersecurity projects while further developing my skills in a dynamic and innovative environment. Thank you for taking a look at my page!
+
+<h2>:page_facing_up: Certifications</h2>
+
+- [CompTIA Security+](https://drive.google.com/file/d/1CYXjIxOOj8fO4gMAUghGJMA1SOW0LbpU/view?usp=sharing)
+- [Cisco Certified Network Associate (CCNA)](https://drive.google.com/file/d/1u-Nezj6rtjtJsBxzy8SAe5x72VNSjlYK/view?usp=sharing)
+
+<h2>:computer: Cybersecurity Projects</h2>
+
+- <b>Home Labs</b>
+  - [Wazuh SIEM/XDR](https://drive.google.com/file/d/1AOdPrd0vHgvn7jLvgaBpopoZYSuwUPRX/view?usp=sharing)
+- <b>Cloud Labs</b>
+  - [Microsoft Azure Honeypot](https://drive.google.com/file/d/1HmgOkRuU45BdccCwlngrir2C7a-qNstd/view?usp=sharing)
+
+<h2>:video_game: Video Game Projects </h2>
+
+- [Dance Dance Revolution Remake](https://github.com/rolandsalvador/ddr_remake)
 
 <!--
-**rolandsalvador/rolandsalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
