@@ -1,6 +1,6 @@
 <h1>Hi, I'm Roland!  <br/><a href="https://www.linkedin.com/in/rolandsalvador/">IT Professional</a> and <a href="https://github.com/rolandsalvador?tab=repositories">Programmer</a></h1>
   
-I am a detail-oriented and motivated IT professional with one year of hands-on experience in technical support and troubleshooting. I have a proven ability to quickly analyze and document complex issues to provide accurate solutions. I am seeking opportunities to contribute to cybersecurity projects while further developing my skills in a dynamic and innovative environment. Thank you for taking a look at my page!
+I am a detail-oriented and motivated IT professional with one year of hands-on experience in technical support and troubleshooting. I have a proven ability to quickly analyze and document complex issues to provide accurate solutions. I am seeking opportunities to contribute to cybersecurity work while further developing my skills in a dynamic and innovative environment. Thank you for taking a look at my page!
 
 <h2>:page_facing_up: Certifications</h2>
 
