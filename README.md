@@ -9,12 +9,13 @@ I am a detail-oriented and motivated IT professional with one year of hands-on e
 
 <h2>:computer: Cybersecurity Projects</h2>
 
-- <b>Home Labs</b>
-  - [Active Directory Domain Services](https://github.com/rolandsalvador/activedirectory)
-  - [Wazuh SIEM/XDR](https://drive.google.com/file/d/1AOdPrd0vHgvn7jLvgaBpopoZYSuwUPRX/view?usp=sharing)
-  - [Nessus Vulnerability Scanner](https://github.com/rolandsalvador/nessus)
-- <b>Cloud Labs</b>
-  - [Microsoft Azure Honeypot](https://drive.google.com/file/d/1HmgOkRuU45BdccCwlngrir2C7a-qNstd/view?usp=sharing)
+- [Wazuh SIEM/XDR](https://drive.google.com/file/d/1AOdPrd0vHgvn7jLvgaBpopoZYSuwUPRX/view?usp=sharing)
+- [Nessus Vulnerability Scanner](https://github.com/rolandsalvador/nessus)
+- [Microsoft Azure Honeypot](https://drive.google.com/file/d/1HmgOkRuU45BdccCwlngrir2C7a-qNstd/view?usp=sharing)
+ 
+<h2>:floppy_disk: Other IT Projects</h2>
+
+- [Active Directory Domain Services](https://github.com/rolandsalvador/activedirectory)
 
 <h2>:video_game: Video Game Projects </h2>
 
