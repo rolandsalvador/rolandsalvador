@@ -10,7 +10,9 @@ I am a detail-oriented and motivated IT professional with one year of hands-on e
 <h2>:computer: Cybersecurity Projects</h2>
 
 - <b>Home Labs</b>
+  - [Active Directory](https://github.com/rolandsalvador/activedirectory)
   - [Wazuh SIEM/XDR](https://drive.google.com/file/d/1AOdPrd0vHgvn7jLvgaBpopoZYSuwUPRX/view?usp=sharing)
+  - [Nessus](https://github.com/rolandsalvador/nessus)
 - <b>Cloud Labs</b>
   - [Microsoft Azure Honeypot](https://drive.google.com/file/d/1HmgOkRuU45BdccCwlngrir2C7a-qNstd/view?usp=sharing)
 
