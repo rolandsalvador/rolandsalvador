@@ -10,8 +10,8 @@ I am a detail-oriented and motivated IT professional with one year of hands-on e
 <h2>:computer: Cybersecurity Projects</h2>
 
 - [Wazuh SIEM/XDR](https://github.com/rolandsalvador/wazuh)
+- [Microsoft Azure Honeypot](https://github.com/rolandsalvador/azurehoneypot)
 - [Nessus Vulnerability Scanner](https://github.com/rolandsalvador/nessus)
-- [Microsoft Azure Honeypot](https://drive.google.com/file/d/1HmgOkRuU45BdccCwlngrir2C7a-qNstd/view?usp=sharing)
  
 <h2>:floppy_disk: Other IT Projects</h2>
 
