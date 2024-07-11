@@ -9,9 +9,9 @@ I am a detail-oriented and motivated IT professional with one year of hands-on e
 
 <h2>:computer: Cybersecurity Projects</h2>
 
-- [Microsoft Azure Honeypot](https://github.com/rolandsalvador/azurehoneypot)
-- [Wazuh SIEM/XDR Home Lab](https://github.com/rolandsalvador/wazuh)
-- [Nessus Vulnerability Scanner Home Lab](https://github.com/rolandsalvador/nessus) [WIP]
+- [Microsoft Azure Hacker Honeypot](https://github.com/rolandsalvador/azurehoneypot)
+- [Wazuh SIEM/XDR Complete Home Lab](https://github.com/rolandsalvador/wazuh)
+- [Nessus Vulnerability Scanner Home Lab](https://github.com/rolandsalvador/nessus)
  
 <h2>:floppy_disk: Other IT Projects</h2>
 
