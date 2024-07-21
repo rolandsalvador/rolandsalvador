@@ -17,7 +17,7 @@ I am a detail-oriented and motivated IT professional with one year of hands-on e
 
 - [Active Directory Domain Services Home Lab](https://github.com/rolandsalvador/activedirectory)
 - [Small Office Network (Part 1) -  Created From Scratch](https://github.com/rolandsalvador/officenetwork)
-- [Small Office Network (Part 2) - Configuration](https://github.com/rolandsalvador/officenetwork2) (WIP)
+- [Small Office Network (Part 2) - Configuration](https://github.com/rolandsalvador/officenetwork2)
 
 <h2>:video_game: Video Game Projects </h2>
 
