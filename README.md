@@ -43,21 +43,21 @@ I am a detail-oriented and motivated IT professional with one year of hands-on e
   VMnet0. The domain controller also contains a NIC for public use to connect to the internet.
   <br />
   <br />
-  <img src="https://i.imgur.com/Yoq0CNh.png" height="75%" width="75%"/>
+  <img src="https://i.imgur.com/Yoq0CNh.png" height="50%" width="50%"/>
 - [Small Office Network (Part 1) -  Created From Scratch](https://github.com/rolandsalvador/officenetwork)
   <br />
   I created a small office network from scratch in Cisco Packet Tracer. This repository is the first part of two in my small office network project. Part 1 is creating the 
   network from scratch. The network is a two-tier (or collapsed core) design with a PC, laptop, phone, server, wireless LAN controller, and lightweight access point.
   <br />
   <br />
-  <img src="https://i.imgur.com/QMEjd0d.png" height="75%" width="75%"/>
+  <img src="https://i.imgur.com/QMEjd0d.png" height="50%" width="50%"/>
 - [Small Office Network (Part 2) - Configuration](https://github.com/rolandsalvador/officenetwork2)
   <br />
   Part 2 is where I configure the Part 1 network to use protocols and technologies such as DHCP, DNS, IPv4 and IPv6, OSPF, STP, HSRP, VLANs, Firewalls, Wireless, and much 
   more.
   <br />
   <br />
-  <img src="https://i.imgur.com/pmMOEbz.png" height="30%" width="30%"/>
+  <img src="https://i.imgur.com/pmMOEbz.png" height="50%" width="50%"/>
 
 <h2>:video_game: Video Game Projects </h2>
 
@@ -67,7 +67,7 @@ I am a detail-oriented and motivated IT professional with one year of hands-on e
   class at San Diego State University.
   <br />
   <br />
-  <img src="https://i.imgur.com/YZQiWTk.png" height="75%" width="75%"/>
+  <img src="https://i.imgur.com/YZQiWTk.png" height="80%" width="80%"/>
 
 <!--
 Here are some ideas to get you started:
