@@ -1,6 +1,8 @@
 <h1>Hi, I'm Roland!  <br/><a href="https://www.linkedin.com/in/rolandsalvador/">IT Professional</a> and <a href="https://github.com/rolandsalvador?tab=repositories">Programmer</a></h1>
   
-I am a detail-oriented and motivated IT professional with one year of hands-on experience in technical support and troubleshooting. I have a proven ability to quickly analyze and document complex issues to provide accurate solutions. I am seeking opportunities to contribute to cybersecurity work while further developing my skills in a dynamic and innovative environment. Thank you for taking a look at my page!
+Motivated IT professional with 1 year of experience in cloud security and information technology, specializing in resolving technical issues related to identity and access management, security framework compliance, and resource misconfigurations. I hold a bachelor's degree in computer science and am certified with CompTIA Security+ and Cisco CCNA.
+
+Thank you for taking a look at my page!
 
 <h2>:closed_book: Education</h2>
 
